@@ -1,1 +1,3 @@
 # Arman
+
+cd Arman
